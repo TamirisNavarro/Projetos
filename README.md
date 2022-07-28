@@ -1,2 +1,3 @@
 
-Projetos iniciais em Pythonn
+Projetos iniciais em Python
+
